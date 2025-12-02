@@ -10,9 +10,12 @@ Sou estudante de Ciência da Computação e desenvolvedor iniciante apaixonado p
 
 **Ramos de interesse:**
 - Desenvolvimento Web (HTML, CSS, JS)
-- Python
-- Java
-- Entusiasta de prototipagem com Arduino
+- Back-End: Python, Java, C
+- Testes Automotizados
+- Deployment de WebApps
+- Ciência de Dados (Pandas, matplotlib, streamlit, plotly)
+- Framework(s): Django
+- Prototipagem com Arduino
 
 ---
 
